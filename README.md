@@ -1,6 +1,6 @@
 # FUSE File System
 
-Created a FUSE file system for a systems class. 
+Created a FUSE file system for a systems class. Although the extra credit tests tend to crash the virtual machine we were programming on, the basic functionality of the file system is complete. Written by both me and a partner, Alexander Malakov.
 
 Completed 12/11/2022.
 
