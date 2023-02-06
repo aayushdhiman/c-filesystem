@@ -1,6 +1,8 @@
-# Project 2: File System
+# FUSE File System
 
-This is the starter code for [Project 2](https://course.ccs.neu.edu/cs3650f22/p2.html). The following contents are provided:
+Created a FUSE file system for a systems class. 
+
+Completed 12/11/2022.
 
 - [Makefile](Makefile)   - Targets are explained in the assignment text
 - [README.md](README.md) - This README
